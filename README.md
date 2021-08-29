@@ -1,6 +1,6 @@
 # Replication assets for the study "UNDERSTANDING REPLICATION CHALLENGES".
 
-## This is the suplemental repository to provide the assets for the empirical study.
+## This is the supplemental repository to provide the assets for the empirical study.
 
 In this repository we include the artifacts created by us, and the links for the external assets.
 
